@@ -1,8 +1,8 @@
 import { useEffect, useRef } from 'react';
 import { FiGithub, FiExternalLink } from 'react-icons/fi';
-import ecommerceImage from '../assets/developer-image.jpg';
+import ecommerceImage from '../assets/markus-spiske-ifVZHBYVx1A-unsplash.jpg';
 import taskappImage from '../assets/erik-mclean-bGWVhFY1gH0-unsplash.jpg';
-import weatherImage from '../assets/developer-image.jpg';
+import weatherImage from '../assets/markus-spiske-ifVZHBYVx1A-unsplash.jpg';
 import './Projects.css';
 
 const projects = [
