@@ -19,7 +19,7 @@ const projects = [
     id: 2,
     title: "Responsive Landing Page",
     description: "A modern, fully responsive landing page built with HTML, CSS, and JavaScript that adapts smoothly to all screen sizes.",
-    tags: ["React", "Firebase", "Material UI", "Context API"],
+    tags: ["HTML5", "CSS5", "JavaScript"],
     github: "https://github.com/chizhinime/responsive-landing-page.git",
     live: "https://afritech-landing-page.vercel.app",
     image: taskappImage
@@ -28,7 +28,7 @@ const projects = [
     id: 3,
     title: "Weather Dashboard",
     description: "Interactive weather application with 5-day forecasts, location search, and animated weather representations.",
-    tags: ["JavaScript", "API", "CSS3", "HTML5"],
+    tags: ["HTML5", "CSS5", "JavaScript"],
     github: "https://github.com/yourusername/weather-app",
     live: "https://yourweatherapp.com",
     image: weatherImage
