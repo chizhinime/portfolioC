@@ -8,20 +8,20 @@ import './Projects.css';
 const projects = [
   {
     id: 1,
-    title: "E-Commerce Platform",
-    description: "A full-stack e-commerce solution with React, Node.js, and MongoDB. Features product filtering, cart functionality, and secure checkout.",
-    tags: ["React", "Node.js", "MongoDB", "Redux"],
-    github: "https://github.com/yourusername/ecommerce",
-    live: "https://yourecommerceapp.com",
+    title: "Digital Study Clock",
+    description: " A beautifully styled browser-based digital study clock to help you stay focused and track your study sessions.",
+    tags: ["HTML5", "CSS5", "JavaScript"],
+    github: "https://github.com/chizhinime/digital-study-clock.git",
+    live: "https://digital-study-clock.vercel.app",
     image: ecommerceImage
   },
   {
     id: 2,
-    title: "Task Management App",
-    description: "A productivity application for team collaboration with real-time updates, task assignments, and progress tracking.",
+    title: "Responsive Landing Page",
+    description: "A modern, fully responsive landing page built with HTML, CSS, and JavaScript that adapts smoothly to all screen sizes.",
     tags: ["React", "Firebase", "Material UI", "Context API"],
-    github: "https://github.com/yourusername/taskmanager",
-    live: "https://yourtaskapp.com",
+    github: "https://github.com/chizhinime/responsive-landing-page.git",
+    live: "https://afritech-landing-page.vercel.app",
     image: taskappImage
   },
   {
